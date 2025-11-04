@@ -50,6 +50,6 @@ Crear 3 comportamientos distintos en base a una clase abstracta que determina su
 
 ---
 ## Escenas de simulación
-(Screenshots/CuboHerencia1.png)
-(Screenshots/CuboHerencia2.png)
+![Escena antes de ejecutar](Screenshots/CuboHerencia1.png)
+![Ecena in game](Screenshots/CuboHerencia2.png)
 
